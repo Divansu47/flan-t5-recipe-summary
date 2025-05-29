@@ -1,31 +1,31 @@
-sample_id,summary
-16,"Step 1: Mix lemon juice into butter and coat fish in seasoned flour.
-Step 2: Arrange in a baking tray, pour butter mix on top, sprinkle with seasoning.
-Step 3: Bake at 350°F for about half an hour, then garnish."
-17,"Step 1: Apply dry rub of spices and liquid smoke to ribs.
-Step 2: Cover in foil, bake at 300°F for 2+ hours until tender.
-Step 3: Slice, glaze with sauce, broil briefly for a sticky finish."
-18,"Step 1: Combine beef with egg and seasonings, gently shape patties.
-Step 2: Cook on grill 6–8 mins each side until fully done.
-Step 3: Place in buns and add toppings."
-19,"Step 1: Cook chicken in butter with Cajun spices.
-Step 2: Stir in cream, chopped tomatoes, herbs, and spices.
-Step 3: Toss with pasta and serve topped with cheese."
-20,"Step 1: Sauté vegetables in margarine, stir in flour.
-Step 2: Add broth, milk, and chicken; cook till thick.
-Step 3: Transfer to dish, add crust, and bake until golden."
-21,"Step 1: Mix dry items with beer until blended.
-Step 2: Pour into pan, add melted butter on top.
-Step 3: Bake at 375°F for an hour, let it rest before cutting."
-22,"Step 1: Mix chopped potatoes with oil, spices, and herbs.
-Step 2: Roast at 420°F for 40 mins.
-Step 3: Stir, re-season, and roast again till crisp."
-23,"Step 1: Boil, cool, and chop the potatoes.
-Step 2: Combine with mayo, mustard, vinegar, and diced veggies.
-Step 3: Sprinkle with seasoning or paprika and serve cold."
-24,"Step 1: Brown sausage with onions and garlic.
-Step 2: Add stock, potatoes, and seasoning; simmer till soft.
-Step 3: Mix in kale and cream, serve hot."
-25,"Step 1: Lightly fry chicken, then set aside.
-Step 2: Add spices and liquids to pan, return chicken to simmer.
-Step 3: Spoon over warm rice to serve."
+image_path,title,generated_summary
+C:\Users\divan\Downloads\test_dataset\16.png,zingy baked fishy delight,"Step 1: Step 1: Preheat oven to 450°F
+Step 2: Toss the tuna with the lemon zest and remaining ingredients
+Step 3: Bake until fish is flaky and whites are opaque, about 25 minutes"
+C:\Users\divan\Downloads\test_dataset\17.png,saucy oven rib thing,"Step 1: Step 1: Preheat oven to 350 °F (175 °C) and grease a large roasting pan
+Step 2: Preheat oven to 350 °F (175 °C) and grease a large roasting pan.
+Step 3: Add your own creative cooking touch."
+C:\Users\divan\Downloads\test_dataset\18.png,juicy grill chunk bomb,"Step 1: Step 1: In a large skillet, cook the steak over medium heat until the steak is no longer pink
+Step 2: Add the onion and garlic and cook until tender, about 3 minutes
+Step 3: Add the steak chunks, pepper and salt to taste"
+C:\Users\divan\Downloads\test_dataset\19.png,creamy spicy noodly birdy thing,"Step 1: Step 1: Scoop up the cream cheese and onion mixture
+Step 2: Add the chopped jalapeno and the chopped parsley
+Step 3: Spread the cheese mixture on the patty."
+C:\Users\divan\Downloads\test_dataset\20.png,feathery chunky pie mess,"Step 1: Step 1: Preheat oven to 350°F
+Step 2: In a large mixing bowl, whisk together flour, baking powder, sugar, salt, cinnamon and vanilla until combined
+Step 3: Add butter and milk"
+C:\Users\divan\Downloads\test_dataset\21.png,yeasty beer loaf situation,"Step 1: Step 1: To make this loaf, you need: A large bowl, a large bucket of warm water, a large bowl of yeast, a medium bowl of warm water, a large mixing bowl, and a large mixing bowl
+Step 2: Step 2: Pour the yeast mixture into the large bowl of water
+Step 3: Step 3: Stir in the flour and the baking powder"
+C:\Users\divan\Downloads\test_dataset\22.png,crispy oven starchy chunks,"Step 1: Step 1: Preheat oven to 400 degrees F
+Step 2: Cut potatoes into 1-inch (2.54-cm) chunks
+Step 3: Sprinkle with salt and pepper"
+C:\Users\divan\Downloads\test_dataset\23.png,cold tuber mayo deal,"Step 1: Step 1: Drain cold tuber, pat dry with paper towel
+Step 2: Spread mayo on a piece of towel
+Step 3: Cut tuber into thick slices"
+C:\Users\divan\Downloads\test_dataset\24.png,hot italian soupy stuff,"Step 1: Step 1: Heat 1 tablespoon olive oil in a large skillet
+Step 2: Add 1 chopped tomato, 1 chopped red bell pepper, 1 chopped garlic clove, 1 chopped green onion, 1/2 teaspoon salt and 1/8 teaspoon pepper
+Step 3: Stir until vegetables are heated through"
+C:\Users\divan\Downloads\test_dataset\25.png,boozy sweet cluck thing,"Step 1: Step 1: Heat oven to 350 °F
+Step 2: Mix dry ingredients together with a fork until smooth
+Step 3: Add cream cheese"
